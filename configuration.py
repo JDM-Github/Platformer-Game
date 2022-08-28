@@ -1,0 +1,6 @@
+# Kivy Configuration
+
+# [WINDOW SIZE]
+WINDOW_WIDTH = 700
+WINDOW_HEIGHT = 600
+BLOCK_SIZE = 50
